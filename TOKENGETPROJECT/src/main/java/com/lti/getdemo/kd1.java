@@ -1,8 +1,8 @@
 package com.lti.getdemo;
 
-public class UserApp {
+public class kd1 {
 public static void main(String[] args) {
-	System.out.println("Hello k);
+	System.out.println("Hello k");
     
 }
 }
